@@ -1,0 +1,11 @@
+1	27%	27	.27	0.27	1
+2	20%	20	.2	0.2	0
+3	5%	5	.05	0.05	1
+4	25%	25	.25	0.25	0
+5	18%	18	.18	0.18	1
+6	Tárgyi mentes	TM	0	TAM	1
+7	Alanyi mentes	AM	0	AAM	1
+8	EU értékesítés	KE	0	KBAET	1
+9	Tárgyi hatályon kívül	AT	0	ATK	1
+10	Ford. áfa 37 par.	EF	0	EUFAD37	1
+11	Harmadik ország	HO	0	HO	1
